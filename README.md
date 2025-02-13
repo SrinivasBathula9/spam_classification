@@ -80,7 +80,7 @@ Enter a sample email text, and it will classify whether it is **Spam** or **Not 
 
 ---
 ## 📊 Model Performance
-- **Accuracy:** ~97%  
+- **Accuracy:** ~98.5%  
 - **F1 Score:** ~0.96  
 (Scores may vary slightly depending on dataset split)
 
@@ -94,7 +94,5 @@ Enter a sample email text, and it will classify whether it is **Spam** or **Not 
 ## 🏆 Contribution
 Feel free to submit **issues** or **pull requests** to improve the project!
 
----
-## 📜 License
-This project is open-source under the **MIT License**.
+
 
